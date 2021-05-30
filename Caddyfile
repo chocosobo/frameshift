@@ -2,7 +2,7 @@
 # IS IS NOT INTENDED TO BE USED VERBATIM
 
 # This can be any (sub)domain pointing to your server
-ftl.example.com {
+live.hawawa.wiki {
 	# Proxy Ingest Server API
 	# Port must match Docker Port Mapping
 	reverse_proxy /janus :8088
